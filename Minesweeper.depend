@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590592887 source:e:\copii\stefan\minesweeper\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+
+1591083498 source:e:\minesweeper\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+
+1714062256 source:d:\tudor\scoala\info\atestat\minesweeper\minesweeper\minesweeper\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+
